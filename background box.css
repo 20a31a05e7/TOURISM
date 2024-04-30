@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.card {
+    background-image: url("https://img.freepik.com/free-photo/beautiful-view-foamy-waves-beach-sunset-captured-domburg-netherlands_181624-7110.jpg?w=1060&t=st=1663076458~exp=1663077058~hmac=83dec714d631531b9df2e79061ace9c43777604d37cade99fe83f5d5ce84b8cf");
+    text-align: center;
+    height: 190vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.main-heading {
+    color: blue;
+}
+
+.paragraph {
+    color: grey;
+}
